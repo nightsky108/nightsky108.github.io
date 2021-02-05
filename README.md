@@ -6,8 +6,8 @@ Feel free to reach out to him via <a href="https://www.linkedin.com/in/jbehar/" 
 
 
 ## Demo
-[link to Demo](https://jdb443.github.io/):[https://jdb443.github.io/](https://jdb443.github.io/)
-<img src="./assets/images/works/jdb443_Home_Page_DCA.png">
+[link to Demo](https://nightsky108.github.io/):[https://nightsky108.github.io/](https://nightsky108.github.io/)
+<img src="./assets/images/works/Home_Page_DCA.png">
 
 
 ## Skills
