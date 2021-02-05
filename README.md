@@ -1,13 +1,17 @@
 # I AM Hui Shi Qi
-I AM Hui Shi Qi a Full-Stack web & mobile developer, Database Analyst, designer and analyst. With a background in Information Systems and Finance. Learning at Columbia Fu Foundation School of Engineering and New York University Leonard N. Stern School of Business.
+I AM Hui Shi Qi, Project Manager & Developer. My team has Full-Stack web & mobile developers, Database Analysts, designers and analysts. Learning at University of Canberra.
 
-Hui Shi Qi is open to help you with your projects or consulting needs.
-Feel free to reach out to him via <a href="https://www.linkedin.com/in/jbehar/" target="_blank">LinkedIn</a>.
+We are open to help you with your projects or consulting needs.
+Feel free to reach out to him via <a href="https://www.linkedin.com/in/hui-shi-qi-403979128/" target="_blank">LinkedIn</a>.
+Email: <b>softman009@outlook.com</b>
+Skype: <b>live:.cid.172ad87683538af7</b>
+Phone: <b>+1 786 837 5270</b>
+WeChat: <b>jon199112</b>
 
 
 ## Demo
 [link to Demo](https://nightsky108.github.io/):[https://nightsky108.github.io/](https://nightsky108.github.io/)
-<img src="./assets/images/works/Home_Page_DCA.png">
+<img src="./assets/images/works/nightsky108_Home_Page_DCA.png">
 
 
 ## Skills
@@ -34,14 +38,6 @@ Feel free to reach out to him via <a href="https://www.linkedin.com/in/jbehar/" 
 - DE-BUGGING
 - and MORE
 
-
-### Credits: 
-- <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
-- <a href="https://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome</a>
-- <a href="https://daneden.github.io/animate.css/" target="_blank">Animate.css</a>
-- <a href="http://dimsemenov.com/plugins/magnific-popup/" target="_blank">Magnific Popup</a>
-- <a href="https://github.com/protonet/jquery.inview" target="_blank">Inview JS</a>
-- <a href="http://vestride.github.io/Shuffle/" target="_blank">Shuffle</a>
 
 
 #### Author
