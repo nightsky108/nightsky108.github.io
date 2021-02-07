@@ -1278,6 +1278,11 @@ Resume Timeline
     overflow: hidden;
 }
 
+.centered-image {
+    height: 197px;
+    object-fit: cover;
+}
+
 .port-pos-init {
     width: 100%;
     margin: 0;
@@ -1346,7 +1351,7 @@ Resume Timeline
     height: 40px;
     position: absolute;
     top: 40%;
-    left: 50%;
+    left: 60%;
     margin-top: -20px;
     margin-left: -45px;
     opacity: 0;
