@@ -2,12 +2,13 @@
 I AM Hui Shi Qi, Project Manager & Developer. My team has Full-Stack web & mobile developers, Database Analysts, designers and analysts. Learning at University of Canberra.
 
 We are open to help you with your projects or consulting needs.
-Feel free to reach out to him via <a href="https://www.linkedin.com/in/hui-shi-qi-403979128/" target="_blank">LinkedIn</a>.
+Feel free to reach out to me via <a href="https://www.linkedin.com/in/hui-shi-qi-403979128/" target="_blank">LinkedIn</a>.
 Email: <b>softman009@outlook.com</b>
 Skype: <b>live:.cid.172ad87683538af7</b>
 Phone: <b>+1 786 837 5270</b>
 WeChat: <b>jon199112</b>
 
+Also browse my shop at <a href="https://furrycanva.com">FurryCanva</a>
 
 ## Demo
 [link to Demo](https://nightsky108.github.io/):[https://nightsky108.github.io/](https://nightsky108.github.io/)
